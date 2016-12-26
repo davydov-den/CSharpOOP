@@ -1,0 +1,9 @@
+c:\users\xomys\documents\visual studio 2012\Projects\WindowsFormsOOP\WindowsFormsOOP\bin\Debug\WindowsFormsOOP.exe.config
+c:\users\xomys\documents\visual studio 2012\Projects\WindowsFormsOOP\WindowsFormsOOP\obj\Debug\WindowsFormsOOP.Form1.resources
+c:\users\xomys\documents\visual studio 2012\Projects\WindowsFormsOOP\WindowsFormsOOP\obj\Debug\WindowsFormsOOP.Properties.Resources.resources
+c:\users\xomys\documents\visual studio 2012\Projects\WindowsFormsOOP\WindowsFormsOOP\obj\Debug\WindowsFormsOOP.csproj.GenerateResource.Cache
+c:\users\xomys\documents\visual studio 2012\Projects\WindowsFormsOOP\WindowsFormsOOP\bin\Debug\WindowsFormsOOP.exe
+c:\users\xomys\documents\visual studio 2012\Projects\WindowsFormsOOP\WindowsFormsOOP\bin\Debug\WindowsFormsOOP.pdb
+c:\users\xomys\documents\visual studio 2012\Projects\WindowsFormsOOP\WindowsFormsOOP\obj\Debug\WindowsFormsOOP.exe
+c:\users\xomys\documents\visual studio 2012\Projects\WindowsFormsOOP\WindowsFormsOOP\obj\Debug\WindowsFormsOOP.pdb
+C:\Users\Xomys\Documents\Visual Studio 2012\Projects\WindowsFormsOOP\WindowsFormsOOP\obj\Debug\WindowsFormsOOP.csprojResolveAssemblyReference.cache
